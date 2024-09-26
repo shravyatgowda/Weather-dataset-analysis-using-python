@@ -1,0 +1,18 @@
+Weather dataset python project:
+
+In this project, we will use,
+
+1.nunique() & unique()
+2.value_counts()
+3.filtering
+4.groupby()
+5.getgroup()
+6.isnull() & notnull()
+7.rename()
+8.mean()
+9.std()
+10.var()
+11.str.contains
+12.and (&) operator
+13.or (|) operator
+14.min() & max()
